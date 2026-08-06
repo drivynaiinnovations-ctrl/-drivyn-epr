@@ -245,8 +245,8 @@ function TrustBar() {
   );
 }
 
-const GHL_CALENDAR_SRC = "https://links.getdrivynai.com/widget/booking/Hjz08gZ8miZnJpyHMwIf";
-const GHL_CALENDAR_ID = "Hjz08gZ8miZnJpyHMwIf";
+const GHL_CALENDAR_SRC = "https://links.getdrivynai.com/widget/booking/0JMl77bv4YoS6gaFPbyi";
+const GHL_CALENDAR_ID = "0JMl77bv4YoS6gaFPbyi";
 
 const SERVICES = [
   { key: "drain",       label: "Drain Cleaning",    icon: Droplets,      priority: false },
